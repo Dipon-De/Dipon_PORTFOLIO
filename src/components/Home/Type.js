@@ -9,7 +9,6 @@ function Type() {
           "Software Developer",
           "Freelancer",
           "Data science",
-          "Open Source Contributor",
         ],
         autoStart: true,
         loop: true,
