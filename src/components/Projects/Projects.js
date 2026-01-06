@@ -40,15 +40,14 @@ function Projects() {
             <ProjectCard
               imgPath={BHP}
               isBlog={false}
-              title="House price Prediction"
-              description="Welcome to our cutting-edge house price predictor web application! Leveraging the power of Machine Learning, we have developed a sophisticated tool that accurately estimates house prices based on various relevant factors. Whether you're a prospective buyer, seller, or simply curious about property values, our app provides invaluable insights derived from robust data analysis.
-
-              
-              But that's not all  we've ensured seamless accessibility by hosting our application on Render.com, ensuring lightning-fast performance and reliability. Whether you're accessing it from your desktop or mobile device, you can rely on a seamless experience.
-              
-              Empowering users with actionable information, our house price predictor web app revolutionizes the way we engage with real estate. Join us as we redefine the future of property valuation with the fusion of Machine Learning and cutting-edge technology."
-              ghLink="https://github.com/Dipon-De/Bengaluru_House_price_prediction"
-              demoLink="https://bengaluru-house-price.onrender.com/"
+              title="Real-Time Anomaly Detection and Alert System"
+              description="A real-time anomaly detection system using deep learning that sends instant image alerts via Telegram.
+                Engineered a real-time violence detection solution for CCTV leveraging MobileNetV2, automating incident alerts with
+                Telegram for rapid security response.
+                  It is a lightweight, easily implementable solution requiring minimal hardware constraints.
+                  Technology Used: TensorFlow, Keras, OpenCV, Flask, MobileNetV2, Telegram API."
+              // ghLink="https://github.com/Dipon-De/Bengaluru_House_price_prediction"
+              // demoLink="https://bengaluru-house-price.onrender.com/"
             />
           </Col>
 
