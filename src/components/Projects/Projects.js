@@ -82,10 +82,11 @@ function Projects() {
               imgPath={sentiment}
               isBlog={false}
               title="Real-Time Twitter Sentiment Analysis Web App"
-              description="This web application provides real-time sentiment analysis of Twitter data based on any user-defined keyword. It uses Python and 
-                machine learning techniques to collect, clean, and analyze live tweets through a scraper API. Natural Language Processing tools classify 
-                sentiments into positive, negative, and neutral categories. A scalable backend ensures efficient processing, while dynamic charts and 
-                  visualizations help users easily understand public opinion trends, making the application useful for researchers, businesses, and data analysts."
+              description="This web application provides real-time sentiment analysis of Twitter data for any user-defined keyword. It is built using Python and
+                machine learning techniques to collect live tweets through a scraper API, then preprocess and analyze the text using Natural Language Processing
+                libraries. The system classifies sentiments into positive, negative, and neutral categories with reliable accuracy. A scalable backend ensures 
+                  smooth performance, while interactive charts and visualizations present insights clearly. This application helps businesses, researchers, and
+                    analysts understand public opinion, track trends, and make data-driven decisions effectively."
               // ghLink=" Github link paste here"
               // demoLink="Web site link PASTE HERE "
             />
