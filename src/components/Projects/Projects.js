@@ -26,13 +26,12 @@ function Projects() {
               imgPath={MDP}
               isBlog={false}
               title="Multiple Disease Prediction System"
-              description="Introducing our groundbreaking web application, designed to revolutionize health monitoring and disease prevention: the Diabetes and Heart Disease Predictor. Leveraging the power of Machine Learning, our app provides users with personalized insights into their risk factors for both diabetes and heart disease. Hosted on Streamlit, an intuitive platform for building and deploying data-driven applications, our tool offers a seamless and user-friendly experience.
-
-              By simply inputting relevant health data, such as age, weight, blood pressure, cholesterol levels, and lifestyle habits, users gain access to a comprehensive analysis of their current health status. Our advanced algorithms analyze this data to generate accurate predictions regarding the likelihood of developing diabetes and heart disease in the future. Armed with this knowledge, individuals can take proactive steps to mitigate their risk factors and lead healthier lives.
-              
-              Whether you're a healthcare professional seeking to empower your patients with actionable insights or an individual looking to take control of your own health journey, our Diabetes and Heart Disease Predictor is your trusted companion. Join us in harnessing the power of Machine Learning to transform healthcare and promote wellness for all."
-              ghLink="https://github.com/Dipon-De/Disease-Predictor"
-              demoLink="https://diseasepredictorpy-8sfntwcuttnacm67nh6tjk.streamlit.app/?utm_medium=social"
+              description="Diabetes and Heart Disease Predictor is a web application built using machine learning and Streamlit. Users enter basic health data
+                such as age, weight, blood pressure, cholesterol, and lifestyle habits. The system analyzes this information to predict future risk of diabetes
+                and heart disease, helping individuals and healthcare professionals take early, preventive actions toward healthier living with accurate insights
+                  and a user-friendly interface."
+              // ghLink="https://github.com/Dipon-De/Disease-Predictor"
+              // demoLink="https://diseasepredictorpy-8sfntwcuttnacm67nh6tjk.streamlit.app/?utm_medium=social"
             />
           </Col>
 
@@ -55,10 +54,13 @@ function Projects() {
             <ProjectCard
               imgPath={MLB}
               isBlog={false}
-              title="Maa Laxmi Bhandar"
-              description="Introducing our streamlined shop website, crafted with efficiency and hosted on GitHub Pages for seamless accessibility. Built in under three hours, this platform offers a hassle-free shopping experience without compromising on functionality. With a minimalist design approach, browsing through our products is intuitive and effortless. Whether you're looking for fashion essentials, tech gadgets, or home decor, our website showcases a curated selection to meet diverse needs. Leveraging GitHub Pages ensures swift loading times and reliable performance, making shopping convenient from any device. Experience the convenience of online shopping with our quick-to-launch, user-friendly shop website, designed to cater to your needs in record time."
-              ghLink="https://github.com/Dipon-De/First-website"
-              demoLink="https://dipon-de.github.io/First-website/"              
+              title="Hand Gesture Recognition System"
+              description="A hand gesture recognition system using computer vision and machine learning 
+                to detect and classify gestures from live video or images in real time. It extracts hand features, 
+                trains a model to recognize common gestures, and provides a responsive API for integration. Applications include touchless interfaces, 
+                assistive tools for accessibility, and intuitive controls for AR/VR and robotics. With high accuracy and low latency."
+              // ghLink="https://github.com/Dipon-De/First-website"
+              // demoLink="https://dipon-de.github.io/First-website/"              
             />
           </Col>
 
