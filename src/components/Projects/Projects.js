@@ -26,10 +26,10 @@ function Projects() {
               imgPath={MDP}
               isBlog={false}
               title="Multiple Disease Prediction System"
-              description="Diabetes and Heart Disease Predictor is a web application built using machine learning and Streamlit. Users enter basic health data
-                such as age, weight, blood pressure, cholesterol, and lifestyle habits. The system analyzes this information to predict future risk of diabetes
-                and heart disease, helping individuals and healthcare professionals take early, preventive actions toward healthier living with accurate insights
-                  and a user-friendly interface."
+              description="Diabetes and Heart Disease Predictor is a web application built using machine learning and Streamlit. Users enter health data such as
+                age, weight, blood pressure, cholesterol levels, and lifestyle habits. The system analyzes this information to predict the risk of developing 
+                diabetes and heart disease. These insights help individuals and healthcare professionals take preventive actions, improve decision-making, and
+                  promote healthier lifestyles through early awareness, accurate predictions, and an easy-to-use interface for all users."
               // ghLink="https://github.com/Dipon-De/Disease-Predictor"
               // demoLink="https://diseasepredictorpy-8sfntwcuttnacm67nh6tjk.streamlit.app/?utm_medium=social"
             />
