@@ -84,14 +84,11 @@ function Projects() {
             <ProjectCard
               imgPath={sentiment}
               isBlog={false}
-              title="Sentiment Analysis"
-              description="Welcome to our innovative sentiment analysis system, where we harness the power of Machine Learning to analyze live data scraped from Twitter in real-time. In today's interconnected world, social media platforms like Twitter serve as invaluable sources of public opinion and sentiment. Understanding and interpreting this vast ocean of data can provide businesses, researchers, and policymakers with crucial insights into public perception, market trends, and emerging issues.
-
-              Our project goes beyond mere data collection, employing advanced Machine Learning algorithms to dissect and analyze the sentiments expressed within the tweets. By leveraging state-of-the-art Natural Language Processing techniques, we can accurately classify tweets as positive, negative, or neutral, allowing us to gauge the overall sentiment of a particular topic, event, or brand in real-time.
-              
-              With our system, users can gain actionable insights into public sentiment trends, track the success of marketing campaigns, monitor brand reputation, and even detect emerging crises before they escalate. By scraping live data from Twitter and applying sophisticated Machine Learning models, we offer a dynamic and comprehensive solution to the challenges of sentiment analysis in the digital age.
-              
-              Join us as we delve into the world of real-time sentiment analysis, where Machine Learning meets social media to unlock invaluable insights and drive informed decision-making."
+              title="Real-Time Twitter Sentiment Analysis Web App"
+              description="A web application providing real-time sentiment analysis of Twitter data for any keyword. 
+                Developed scalable backend workflows for real-time tweet sentiment analysis using Python and machine learning, with 
+                integrated data visualization using dynamic charts.
+                -Technology Used: Flask, scikit-learn, TextBlob, NLTK, Matplotlib, Requests (scraper API)"
               // ghLink=" Github link paste here"
               // demoLink="Web site link PASTE HERE "
             />
