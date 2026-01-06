@@ -67,14 +67,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitcoin}
               isBlog={false}
-              title="Crypto Currency Prediction System"
-              description="Welcome to the forefront of financial forecasting with our Crypto Currency Prediction System project! Harnessing the immense potential of Deep Learning, we've developed a state-of-the-art platform that analyzes complex market data to predict cryptocurrency trends with unparalleled accuracy.
-
-              In today's dynamic digital landscape, the value of cryptocurrencies fluctuates rapidly, presenting both opportunities and challenges for investors. Our project seeks to empower users by providing reliable insights into future price movements, enabling informed decision-making in this fast-paced market.
-              
-              Using advanced Deep Learning algorithms, our system processes vast volumes of historical and real-time data, identifying intricate patterns and trends that traditional methods may overlook. By leveraging cutting-edge technology, we aim to equip users with actionable predictions, enabling them to navigate the crypto market with confidence.
-              
-              As we continue to push the boundaries of innovation, our Crypto Currency Prediction System stands as a testament to the transformative potential of Deep Learning in the realm of finance. Join us on this journey as we redefine the future of cryptocurrency investment through the fusion of technology and predictive analytics."
+              title="Bitcoin Price Forecasting & Trading Strategy Backtesting"
+              description="Developed a time series forecasting model using a stacked LSTM network to predict 30-minute Bitcoin closing prices.
+                Engineered an LSTM model to forecast Bitcoin prices, resulting in a backtested trading strategy with a 139.92% simulated ROI.
+                -Technology Used : LSTM, Keras, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib."
               // ghLink="paste github link here "
               // demoLink="Paste demo web site here "
             />
