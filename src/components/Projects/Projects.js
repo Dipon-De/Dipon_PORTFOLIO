@@ -93,14 +93,12 @@ function Projects() {
             <ProjectCard
               imgPath={unit}
               isBlog={false}
-              title="Unit Converter Android App"
-              description="Welcome to our Unit Converter app project, where we seamlessly blend the power of Java and XML to create a versatile and user-friendly tool for converting various units of measurement. In this digital era where efficiency is paramount, our app aims to simplify the often cumbersome task of unit conversion.
-
-              With Java serving as the backbone of our application logic, we've employed its robust features to handle calculations with precision and accuracy. Meanwhile, XML plays a crucial role in defining the layout and structure of our user interface, ensuring a seamless and intuitive experience for our users.
-              
-              Whether you're converting lengths, weights, volumes, or temperatures, our app provides a comprehensive range of conversion options at your fingertips. From meters to miles, kilograms to pounds, liters to gallons, and Celsius to Fahrenheit, our Unit Converter app covers it all.
-              
-              Join us on this journey as we explore the synergy between Java and XML to create a powerful yet user-friendly tool that simplifies the complexities of unit conversion, making everyday tasks a breeze."
+              title="Large Language Models for Medical Purpose"
+              description="Developed biomedical QA system by fine-tuning BioGPT with LoRA, optimizing performance and efficiency. 
+                Accelerated model performance by 40% and reduced VRAM usage by 75% through strategic fine-tuning of BioGPT 
+                with LoRA, enabling deployment on consumer-grade GPUs for wider accessibility. 
+                  Modified model configurations to enable CPU compatibility by setting float32 precision in config.json for efficient 
+                  deployment and broader hardware support."
               // ghLink=" Github link paste here"
               // demoLink="Web site link PASTE HERE "
             />
