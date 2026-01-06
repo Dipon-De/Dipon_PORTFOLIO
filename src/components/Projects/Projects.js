@@ -69,9 +69,11 @@ function Projects() {
               imgPath={bitcoin}
               isBlog={false}
               title="Bitcoin Price Forecasting & Trading Strategy Backtesting"
-              description="Developed a time series forecasting model using a stacked LSTM network to predict 30-minute Bitcoin closing prices.
-                Engineered an LSTM model to forecast Bitcoin prices, resulting in a backtested trading strategy with a 139.92% simulated ROI.
-                -Technology Used : LSTM, Keras, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib."
+              description="Developed a robust time series forecasting system using a stacked LSTM neural network to predict 30-minute Bitcoin closing prices. The
+                project involved extensive data preprocessing, feature scaling, and sequence generation using historical cryptocurrency market data. The LSTM model
+                was trained and optimized using Keras and TensorFlow to capture complex temporal patterns and price movements. A backtested trading strategy was
+                  implemented based on the model’s predictions, achieving a simulated return on investment of 139.92%. The solution demonstrates strong analytical
+                    skills, practical machine learning application, and effective financial data modeling."
               // ghLink="paste github link here "
               // demoLink="Paste demo web site here "
             />
